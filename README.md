@@ -26,22 +26,17 @@ getpass for hidden password input
 
 ## How to Run
 
-1.Clone the repository:
+Make sure Python is installed on your system.
 
-git clone https://github.com/your-username/password-strength-checker.git
+Download the Task3.py file.
 
+Open a terminal/command prompt in the same folder.
 
-2.Navigate to the project folder:
+Run:
 
-cd password-strength-checker
+python Task3.py
 
-
-3.Run the script:
-
-python password_checker.py
-
-
-4.Enter your password when prompted.
+Enter your password when prompted.
 
 Example:
 Enter password to check strength: ************
