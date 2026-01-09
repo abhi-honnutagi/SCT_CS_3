@@ -38,6 +38,9 @@ python Task3.py
 
 Enter your password when prompted.
 
+
+## Output
+
 Example:
 Enter password to check strength: ************
 
